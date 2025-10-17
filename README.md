@@ -1,7 +1,7 @@
 # AI FAQs Builder
 
 **Version:** 1.0.0  
-**Author:** Your Name
+**Author:** Collins Kulei
 
 AI FAQs Builder scans your post content and auto-creates FAQ blocks (HTML + JSON-LD schema). It supports automatic insertion or manual generation and saving via a meta box.
 
